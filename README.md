@@ -1,2 +1,1 @@
-# ayr-k-mat.-DEV-
-ayrık mat.ÖDEVİ
+Kahramanmaraş İstiklal Üniversitesi Yazılım Mühendisliği kapsamında hazırladığım Ayrık Yapılar 2. hafta ödev çalışmamı tamamladım!  Öne Çıkanlar:Boole Cebiri & Sadeleştirme: De Morgan ve Konsensüs kurallarıyla mantıksal ifadelerin sadeleştirilmesi.Devre Tasarımı: AND, OR, NOT kapılarıyla mantık ve anahtarlama devrelerinin şematik analizi.Doğruluk Tabloları & Venn Şemaları: f(x, y, z)fonksiyonlarının doğruluk analizleri ve küme gösterimleri. Araçlar: Boole Cebiri, Mantıksal Kapı Tasarımla.rı, Python, MS Word Detaylı ödev dokümanına ekten ulaşabilirsiniz. Geri bildirimlerinizi bekliyorum!#SoftwareEngineering #DiscreteMathematics #BooleanAlgebra #LogicGates #FatihCelik
